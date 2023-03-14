@@ -1,0 +1,8 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(éêµ‰şÿÿÿÿ8úé’‚î0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³éÅ¶8ûé’‚î0
+W
+java:S1118":Add a private constructor to hide the implicit public one.(›ıÔô8„ê’‚î0
+U
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(«áêºøÿÿÿÿ8ˆê’‚î0
