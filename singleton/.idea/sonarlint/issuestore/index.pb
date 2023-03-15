@@ -1,0 +1,25 @@
+
+I
+src/v4/LazySingleton.java,1\4\14b308a7c42fd57e0c5178a5442a6e956631e302
+I
+src/v3/LazySingleton.java,f\7\f7c1cc993b48a171bd59554df534aa5bf36cf74e
+I
+src/v2/LazySingleton.java,9\c\9c4664fc78222740a30e3c2630239620cd22f0ca
+I
+src/v1/LazySingleton.java,8\d\8d4d69fc72272a3fd24fa4383401282513d407c1
+I
+src/v5/LazySingleton.java,d\6\d66abcf07b1ad7d485739dac52bc4e52637b9304
+U
+%src/v6/StaticInnerClassSingleton.java,4\1\41b4a3043d33ee075b1816d998e0032a53f6f243
+K
+src/v7/HungrySingleton.java,b\6\b648fa2be1c1af03ed2d4f12306c2f0ac8390989
+K
+src/v8/HungrySingleton.java,f\c\fcfc35b5d99b53e5889cc3c64c214a0b259a44c7
+I
+src/v9/EnumSingleton.java,3\d\3de99fd2ff172bc568f1d9e1440fce2f72b3d228
+J
+src/v10/EnumSingleton.java,a\c\acf5f5f83a3105ba223eb6eeddb2713b09a91f40
+Q
+!src/v12/ThreadLocalSingleton.java,6\4\649607d99a3f5622086e4358bef30ed5870689e9
+O
+src/v11/ContainerSingleton.java,1\1\11a17781c89c1329749d02310759af57293bee1a

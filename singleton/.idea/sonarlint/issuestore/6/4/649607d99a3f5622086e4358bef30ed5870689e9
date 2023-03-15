@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àØııÿÿÿÿÿ
+D
+java:S5164""Call "remove()" on "THREAD_LOCAL".(÷Îüÿÿÿÿ8ŸâÖŒî0
+h
+java:S4065"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(÷Îüÿÿÿÿ8¡âÖŒî0
+Q
+java:S2440"4Remove this instantiation of "ThreadLocalSingleton".(ëîïÖ8¤âÖŒî0

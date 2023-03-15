@@ -1,0 +1,8 @@
+
+v
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍþÁ«8çã—Œî0
+L
+java:S1066"/Merge this if statement with the enclosing one.(¸çºµ8çã—Œî0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç±ÜÍùÿÿÿÿ
+e
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(¸çºµ8›Ž˜Œî0
