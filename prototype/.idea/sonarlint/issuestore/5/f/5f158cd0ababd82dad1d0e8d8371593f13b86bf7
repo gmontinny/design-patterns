@@ -1,0 +1,11 @@
+
+m
+java:S1192"PDefine a constant instead of duplicating this literal "=====Lista=====" 4 times.(æ¤ÇÕ8îŸÀ¨î0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³éÅ¶8Œš¿¨î0
+N
+java:S1874	",Remove this use of "Date"; it is deprecated.(±Ö±şıÿÿÿÿ8“š¿¨î0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ¤ÇÕ8”š¿¨î0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ¤ÇÕ8”š¿¨î0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8•š¿¨î0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ¤ÇÕ8•š¿¨î0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ¤ÇÕ8æÁ¨î0
