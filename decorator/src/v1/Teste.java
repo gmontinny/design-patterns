@@ -5,11 +5,12 @@ public class Teste {
         AbstractMilkyTea abstractMilkyTea = new MilkyTea();
         abstractMilkyTea = new SugarDecorator(abstractMilkyTea);
         abstractMilkyTea = new PearlDecorator(abstractMilkyTea);
-        System.out.println(abstractMilkyTea.desc() + " Preço:" + abstractMilkyTea.price());
 
+        System.out.println(abstractMilkyTea.desc() + " Preco:" + abstractMilkyTea.price());
         abstractMilkyTea = new MilkyTea();
         abstractMilkyTea = new RedBeanDecorator(abstractMilkyTea);
         abstractMilkyTea = new PearlDecorator(abstractMilkyTea);
-        System.out.println(abstractMilkyTea.desc() + " Preço:" + abstractMilkyTea.price());
+        System.out.println(abstractMilkyTea.desc() + " Preco:" + abstractMilkyTea.price());
+
     }
 }

@@ -3,6 +3,7 @@ package v1;
 public abstract class AbstractDecorator extends AbstractMilkyTea{
     private AbstractMilkyTea abstractMilkyTea;
 
+
     public AbstractDecorator(AbstractMilkyTea abstractMilkyTea) {
         this.abstractMilkyTea = abstractMilkyTea;
     }

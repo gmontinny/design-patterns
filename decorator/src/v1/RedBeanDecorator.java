@@ -7,7 +7,7 @@ public class RedBeanDecorator extends AbstractDecorator{
 
     @Override
     protected String desc() {
-        return super.desc() + " Chantilly";
+        return super.desc() + " Red";
     }
 
     @Override

@@ -14,6 +14,4 @@ public class PearlDecorator extends AbstractDecorator {
     protected int price() {
         return super.price() + 2;
     }
-
-
 }
